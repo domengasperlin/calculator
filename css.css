@@ -1,0 +1,22 @@
+body {
+    background-color:#5cb85c;
+}
+
+button {
+    width: 50px!important;
+    height: 50px;
+}
+
+#vnos {
+    float: none;
+    width:250px;
+}   
+
+#parent-container {
+    margin-left: -125px;
+    margin-top: -143px;
+    position: absolute;
+    top: 50%; left: 50%;
+    width: 250px;
+    height: 250px;    
+}
